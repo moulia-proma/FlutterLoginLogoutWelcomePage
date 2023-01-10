@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272428832183",
+    "project_id": "fir-loginui-60d22",
+    "storage_bucket": "fir-loginui-60d22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272428832183:android:c0b73c76454ea6c0360432",
+        "android_client_info": {
+          "package_name": "com.example.loginsignup1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272428832183-cfald9cors8t1p1db6doftlpk0fo20u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdYLJKeGMfpBN-2A56wyMM7bwGYycnxbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272428832183-cfald9cors8t1p1db6doftlpk0fo20u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
